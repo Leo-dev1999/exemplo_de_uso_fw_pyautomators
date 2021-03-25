@@ -1,0 +1,8 @@
+# =================================================================== #
+Funcionalidade: 
+Descricao: Aderir Parcele Fácil com Saldo Parcial
+Tag: tag_fnc_aderir_parcele_facil_saldo_parcial
+Navegador: google chrome
+Url: http://10.113.98.142/fun
+Resultado: Sucesso
+[data: 05 de dezembro de 2019 - 14h:01min:47seg]

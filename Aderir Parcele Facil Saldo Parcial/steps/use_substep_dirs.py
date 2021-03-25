@@ -1,0 +1,2 @@
+from Pyautomators.contrib.substep_dirs import get_new_dirs
+get_new_dirs(__file__)

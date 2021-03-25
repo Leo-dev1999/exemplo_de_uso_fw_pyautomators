@@ -1,0 +1,8 @@
+Servico:
+  Aderir Parcele Saldo Parcial:
+    cenario_01:
+      tag: tag_fnc_aderir_parcele_facil_saldo_parcial
+      navegador: google chrome
+      url: 'http://10.113.98.142/fun'
+      descricao: Aderir Parcele Fácil com Saldo Parcial
+      executar_automacao: True

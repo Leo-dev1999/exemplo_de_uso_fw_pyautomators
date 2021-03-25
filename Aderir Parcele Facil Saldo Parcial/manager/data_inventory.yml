@@ -1,0 +1,9 @@
+Servico:
+  Aderir Parcele Saldo Parcial:
+    cenario_01: 
+      Usuario: '45958089846'
+      Senha: 'Davi1005'
+      Dominio: 'CSFCPV'
+      Unidade: 'Lojas > Matriz > BackOffice'
+      Cliente: '4034062629179021'
+      Saldo: 'Saldo Parcial'

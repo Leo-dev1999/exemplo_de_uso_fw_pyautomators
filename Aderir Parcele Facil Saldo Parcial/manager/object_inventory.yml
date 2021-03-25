@@ -1,0 +1,25 @@
+Servico:
+  Aderir Parcele Saldo Parcial:
+    cenario_01:
+      Usuario: 'LoginModel_Usuario'
+      Senha: 'LoginModel_Senha'
+      Alterar: 'rdDominio'
+      Dominio: 'LoginModel_Dominio'
+      Entrar: 'btnEfetuarLogin'
+      Unidade: 'LoginModel_Hierarquia'
+      Avancar: 'btnConcluirAutenticacao'
+      Validar_Login: 'header'
+      Span_Identificar01: 'ui-dialog-title-dialogContentIdentificacaoCliente'
+      Span_Identificar02: 'dialogContentIdentificacaoCliente'
+      Identificar: 'icl_IdentificaCliente'
+      Cliente: 'icl_filtroNumeroCartao'
+      Menu: 'Serviço'
+      Sub-Menu: 'Parcele Fácil'
+      Formulario: 'cps_fldConteudoPag'
+      PopUp_Sim: "//span[text()='SIM']"
+      PopUp_Ok: 'dialogContentMensagens'
+      Finalizar: 'icl_FinalizarCliente'
+      Logoff: 'logoff'
+      Sim_Logoff: "//input[@value='Sim']"
+      Saldo: 'cps_ListaPerfilElegebilidade'
+      Evidencia_saldo: 'cps_spanSaldoSelecionado'
